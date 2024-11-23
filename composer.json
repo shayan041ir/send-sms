@@ -1,0 +1,17 @@
+{
+    "name": "myproject/sms-service",
+    "description": "سامانه پیامکی ساده با PHP",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    }
+}

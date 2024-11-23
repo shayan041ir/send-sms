@@ -1,1 +1,1 @@
-# send-sms
+ECHO is on.
